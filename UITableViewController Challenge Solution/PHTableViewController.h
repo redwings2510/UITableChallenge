@@ -1,5 +1,5 @@
 //
-//  PHViewController.h
+//  PHTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by peterh on 28.03.14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PHViewController : UIViewController
+@interface PHTableViewController : UITableViewController
 
 @end
